@@ -68,7 +68,7 @@ end
 
 local Settings = {
     autocombo = true,
-    combolvl = 4,
+    combolvl = 5,
     Nofall = false,
     Slidespeed = false,
     slidevalue = 1,
